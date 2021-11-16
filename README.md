@@ -1,1 +1,1 @@
-# Canser-Survival-Prediction
+# Cancer-Survival-Prediction
